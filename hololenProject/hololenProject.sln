@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{54792210-F192-44AA-85CA-10CB54989302}") = "hololenProject", "Assembly-CSharp.csproj", "{C56497FF-90F9-783E-3077-5E6AF2833875}"
+EndProject
+Project("{54792210-F192-44AA-85CA-10CB54989302}") = "hololenProject", "Assembly-CSharp-Editor.csproj", "{9AE6BFF3-E626-D168-81D6-A35777FA81F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56497FF-90F9-783E-3077-5E6AF2833875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56497FF-90F9-783E-3077-5E6AF2833875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56497FF-90F9-783E-3077-5E6AF2833875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56497FF-90F9-783E-3077-5E6AF2833875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE6BFF3-E626-D168-81D6-A35777FA81F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE6BFF3-E626-D168-81D6-A35777FA81F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE6BFF3-E626-D168-81D6-A35777FA81F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE6BFF3-E626-D168-81D6-A35777FA81F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
