@@ -46,6 +46,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Haptic Project Components\Scripts\Converter\Converter.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\ConstantForceEffect.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\FrictionEffect.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\SpringEffect.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\TangentialForce.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\VibrationContact.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\VibrationMotor.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Force Effects\ViscosityEffect.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Haptic Properties\HapticProperties.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Plugin Import\GenericFunctionsClass.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Plugin Import\PluginImport.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\BlockGame\SimpleShapeManipulationAndPhysicsBlock.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Writing\BlackBoard.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Writing\DualShapeContactWriting.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Writing\SimpleShapeContactWriting.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Writing\Writing.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\logo\GuiTextureScript.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\CustomForceEffect.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\DualShapeContact.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\HapticClassScript.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\HapticInjection.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeContact.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeManipulation.cs" />
+     <Compile Include="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeManipulationAndPhysics.cs" />
      <Compile Include="Assets\HoloToolkit\CrossPlatform\Scripts\MetroHandleRef.cs" />
      <Compile Include="Assets\HoloToolkit\CrossPlatform\Scripts\Reflection\ReflectionExtensions.cs" />
      <Compile Include="Assets\HoloToolkit\CrossPlatform\Scripts\Reflection\TypeUtils.cs" />
@@ -315,15 +339,14 @@
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\TextToSpeechManagerTest.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\TextToSpeechOnTap.cs" />
      <None Include="Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialUnderstandingSurface.shader" />
+     <None Include="Assets\Haptic Project Components\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\Wireframe.shader" />
      <None Include="Assets\HoloToolkit\Input\Shaders\EditorHands.shader" />
      <None Include="Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialMappingSurface.shader" />
+     <None Include="Assets\license.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurableTransparent.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\BlinnPhongConfigurable.shader" />
      <None Include="Assets\HoloToolkit\UI\Shaders\3DTextShader.shader" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -338,9 +361,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
