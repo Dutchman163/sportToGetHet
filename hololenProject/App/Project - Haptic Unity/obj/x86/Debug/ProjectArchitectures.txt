@@ -1,0 +1,4 @@
+C:\Users\Marten\Documents\sportToGetHet\hololenProject\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Marten\Documents\sportToGetHet\hololenProject\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Marten\Documents\sportToGetHet\hololenProject\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Marten\Documents\sportToGetHet\hololenProject\App\Project - Haptic Unity\Project - Haptic Unity.csproj;x86
